@@ -1,2 +1,3 @@
 # Connect4
-Connect Four Game 
+Connect Four Game using JavaFX for GUI. 
+
